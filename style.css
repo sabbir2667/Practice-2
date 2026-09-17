@@ -9,12 +9,12 @@ h1 {
 }
 
 p {
-    color: black;
+    color: green;
     font-size: 18px;
 }
 
 button {
-    background-color: blue;
+    background-color: red;
     color: white;
     padding: 10px 20px;
     border: none;
